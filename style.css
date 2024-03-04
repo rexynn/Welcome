@@ -1,0 +1,150 @@
+/* html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color:rgb(134, 134, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#container {
+  height: 400px;
+  width: 350px;
+  background-color:rgb(255, 0, 0);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#container img {
+  height: 100%;
+  width : 100%;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 10px;
+}
+
+
+#container i {
+  color: aliceblue;
+  font-size: 80px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  transition: transform ease-in-out 0.3s;
+}
+
+#container i:hover {
+  transform: translate(-50%, -50%) scale(1.2);
+}
+ */
+
+
+/*  * {
+  color: blue;
+ }
+
+ button {
+  color: #ff3300;
+ }
+
+ #headingOne {
+  color:#00fff4;
+ }
+
+ #HeadingTwo {
+  color: #ffff00;
+ }
+
+.One {
+  color: #ffaaee
+ }
+
+ #box  {
+  color: #ffffff;
+  background-color: #0000ff;
+ }
+
+ .Heading {
+  Color: #ff0000;
+ }
+
+ button {
+  background-color: #00ff15
+ } */
+
+/*  [ READ MDN ...... ] */
+
+
+
+
+
+
+
+/* Day - 01 */
+
+ p {
+  text-align: center;
+  line-height: none;
+  text-transform: Normal;
+ }
+
+ h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight:900;
+ }
+
+ h2 {
+  text-align: center;
+  font-weight:100;
+ }
+
+ #second {
+  font-family: arial;
+ }
+
+ #first {
+  font-family:Helvetica, sans-serif;
+ }
+
+
+a {
+  text-decoration: none;
+}
+
+/*  Day - 02 */
+
+#day2 {
+  text-align: center;
+  text-transform: capitalize;
+  font-family: 'Times New Roman';
+}
+
+
+#outer {
+  font-size: 25px;
+}
+
+#inner {
+  font-size: 10px;
+}
+
+
+
+div {
+  text-align: center;
+  height:100px;
+  width: 100px;
+  background-color: aquamarine;
+/*   border-width: 2px;
+  border-style: solid;
+  border-color: gray; */
+  border: 2px solid gray;
+  border-radius: 10px;
+  padding: 1px 2px 3px 4px;
+  margin: 1px 2px 3px 4px;
+}
